@@ -11,4 +11,4 @@
 
 
 
-[<img src='https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>]([https://www.linkedin.com/in/yuri-tavares-933517264/](https://www.linkedin.com/in/nataliaclv/)
+[<img src='https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/nataliaclv/)
